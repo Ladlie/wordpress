@@ -1,0 +1,6 @@
+---
+# vars file for task6
+---
+db_wordpress: wpdb
+db_user_wordpress: wpdb_user
+db_pass_wordpress: 12345
